@@ -26,7 +26,7 @@ on:
     inputs:
       Tempoary_CONFIG:
         description: '配置文件'
-        default: 'd-team_newifi-d2'
+        default: 'd-team_newifi-d2-Lite'
         type: choice
         options:
           - 'd-team_newifi-d2'
